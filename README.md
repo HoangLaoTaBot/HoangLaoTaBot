@@ -19,3 +19,7 @@ Có tool hay script nào thì đều share ở đây hết rồi, ở đây khô
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=yescoin-exe&title_color=fea722&icon_color=fea722&border_color=fea722&bg_color=fffaf1&cache_seconds=21600)](https://github.com/HoangLaoTaBot/yescoin-exe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=tonstation-exe&title_color=ffd130&icon_color=ffd130&border_color=ffd130&bg_color=fffcf0&cache_seconds=21600)](https://github.com/HoangLaoTaBot/tonstation-exe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=frogfarm-exe&title_color=ff3f6d&icon_color=ff3f6d&border_color=ff3f6d&bg_color=fff6f8&cache_seconds=21600)](https://github.com/HoangLaoTaBot/frogfarm-exe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=goats-exe&title_color=b2e500&icon_color=b2e500&border_color=b2e500&bg_color=f9ffe4&cache_seconds=21600)](https://github.com/HoangLaoTaBot/goats-exe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=ducks-exe&title_color=fea722&icon_color=fea722&border_color=fea722&bg_color=fffaf1&cache_seconds=21600)](https://github.com/HoangLaoTaBot/ducks-exe)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=toolconvert-exe&title_color=facb49&icon_color=facb49&border_color=facb49&bg_color=fffbef&cache_seconds=21600)](https://github.com/HoangLaoTaBot/toolconvert-exe)
