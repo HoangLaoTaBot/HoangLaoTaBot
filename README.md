@@ -21,5 +21,7 @@ Có tool hay script nào thì đều share ở đây hết rồi, ở đây khô
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=frogfarm-js&title_color=ff3f6d&icon_color=ff3f6d&border_color=ff3f6d&bg_color=fff6f8&cache_seconds=21600)](https://github.com/HoangLaoTaBot/frogfarm-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=goats-js&title_color=b2e500&icon_color=b2e500&border_color=b2e500&bg_color=f9ffe4&cache_seconds=21600)](https://github.com/HoangLaoTaBot/goats-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=ducks-js&title_color=fea722&icon_color=fea722&border_color=fea722&bg_color=fffaf1&cache_seconds=21600)](https://github.com/HoangLaoTaBot/ducks-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=paws-js&title_color=facb49&icon_color=facb49&border_color=facb49&bg_color=fffbef&cache_seconds=21600)](https://github.com/HoangLaoTaBot/paws-js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=duckchain-js&title_color=fea722&icon_color=fea722&border_color=fea722&bg_color=fffaf1&cache_seconds=21600)](https://github.com/HoangLaoTaBot/duckchain-js)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=toolconvert-exe&title_color=facb49&icon_color=facb49&border_color=facb49&bg_color=fffbef&cache_seconds=21600)](https://github.com/HoangLaoTaBot/toolconvert-exe)
