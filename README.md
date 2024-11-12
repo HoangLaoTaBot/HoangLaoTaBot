@@ -6,6 +6,8 @@ Có tool hay script nào thì đều share ở đây hết rồi, ở đây khô
 
 ## 🕹 Danh sách tool NodeJS
 
+🚀 [<span style="font-family: 'Courier New', monospace;">Tool Convert EXCEL</span>](https://github.com/HoangLaoTaBot/toolconvert-js)
+
 🚀 [<span style="font-family: 'Courier New', monospace;">Baby Doge</span>](https://github.com/HoangLaoTaBot/babydoge-js)
 
 🚀 [<span style="font-family: 'Courier New', monospace;">SEED</span>](https://github.com/HoangLaoTaBot/seed-js)
@@ -53,5 +55,3 @@ Có tool hay script nào thì đều share ở đây hết rồi, ở đây khô
 🚀 [<span style="font-family: 'Courier New', monospace;">Notpixel</span>](https://github.com/HoangLaoTaBot/notpixel-js)
 
 🚀 [<span style="font-family: 'Courier New', monospace;">Tsubasa</span>](https://github.com/HoangLaoTaBot/tsubasa-js)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HoangLaoTaBot&repo=toolconvert-exe&title_color=facb49&icon_color=facb49&border_color=facb49&bg_color=fffbef&cache_seconds=21600)](https://github.com/HoangLaoTaBot/toolconvert-exe)
