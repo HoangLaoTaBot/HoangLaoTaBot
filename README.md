@@ -57,3 +57,5 @@ Có tool hay script nào thì đều share ở đây hết rồi, ở đây khô
 🚀 [<span style="font-family: 'Courier New', monospace;">Tsubasa</span>](https://github.com/HoangLaoTaBot/tsubasa-js)
 
 🚀 [<span style="font-family: 'Courier New', monospace;">Tomarket</span>](https://github.com/HoangLaoTaBot/tomarket-js)
+
+🚀 [<span style="font-family: 'Courier New', monospace;">Chickcoop</span>](https://github.com/HoangLaoTaBot/chickcoop-js)
